@@ -1,0 +1,13 @@
+{
+    "servers": [
+        "localhost:27017"
+    ],
+    "listen": "localhost:8090",
+    "logfile": "gogridfs.log",
+    "database": "file",
+    "gridfscollection": "fs",
+    "handlepath": "/file",
+    "mode": "strong",
+    "debug": true,
+    "corenum": 4
+}
